@@ -58,5 +58,4 @@ object WordData {
         Pair(50, arrayOf("cherish","care about something and cultivate it with affection")),
         Pair(51, arrayOf("Ephemeral","Short-lived")),
     )
-
 }
